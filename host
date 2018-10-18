@@ -1,6 +1,6 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
-# Number of unique domains: 14
+#
 # Date: October 18 2018
 # Blocklist By Mon_x
 # ===============================================================
@@ -40,6 +40,8 @@ ff02::3 ip6-allhosts
 0.0.0.0 muchproxy.com
 0.0.0.0 stopcensoring.me
 0.0.0.0 unblocksites.online
+0.0.0.0 kissproxy.ga
+0.0.0.0 unblocksites.pt
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in

@@ -1,5 +1,6 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via Github
+# Thanks to SteveBlack almost clone his work
 #
 # Date: October 18 2018
 # Blocklist By Mon_x
@@ -26,8 +27,20 @@ ff02::3 ip6-allhosts
 # Start Mon_x
 
 #=====================================
-0.0.0.0 xero.com
-0.0.0.0 www.xero.com
+0.0.0.0 popcornflix.com
+0.0.0.0 my-proxy.com
+0.0.0.0 fubo.tv
+0.0.0.0 iomovies.to
+0.0.0.0 Putlocker.cl
+0.0.0.0 streamlikers.com
+0.0.0.0 sonycrackle.com
+0.0.0.0 viewster.com
+0.0.0.0 www1.two-movies.name
+0.0.0.0 yesmovies.to
+0.0.0.0 icefilms.info
+0.0.0.0 muchproxy.com
+0.0.0.0 stopcensoring.me
+0.0.0.0 unblocksites.online
 # blacklist
 #
 # The contents of this file (containing a listing of additional domains in
